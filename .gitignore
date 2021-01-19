@@ -1,4 +1,3 @@
-/client
-/server/database/dbConnection
+server/database/dbConnection.js
 node_modules
 .vscode

@@ -1,0 +1,4 @@
+/client
+/server/database/dbConnection
+node_modules
+.vscode
